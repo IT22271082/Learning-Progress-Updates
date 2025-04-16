@@ -1,4 +1,4 @@
-package com.skillverse.learning_progress_update;
+package com.skillverse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
